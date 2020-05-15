@@ -5,14 +5,14 @@ I personally use it for getting updated information from the websites I trust. H
 
 # Features
 
-Information: Total cases, total recovered, total deaths - Headlines need advanced web scraping [Wil Include later]
-Audio responses
-Choice for male / female voice assisstant
-Advanced error handling conditions
-Mental health support
-Includes wide support for negative and positive responses
-Includes preliminary slang support
-Includes exception handling for personal questions
+Information: Total cases, total recovered, total deaths - Headlines need advanced web scraping [Wil Include later] <br />
+Audio responses <br />
+Choice for male / female voice assisstant <br />
+Advanced error handling conditions <br />
+Mental health support <br />
+Includes wide support for negative and positive responses <br />
+Includes preliminary slang support <br />
+Includes exception handling for personal questions <br />
 
 I would really love if someone could add more features to it.
 
