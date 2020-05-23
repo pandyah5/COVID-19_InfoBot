@@ -11,6 +11,8 @@ Choice for male / female voice assisstant <br />
 Advanced error handling conditions <br />
 Mental health support <br />
 Includes wide support for negative and positive responses <br />
+Accepts voice commands for hands-free experience [Available in the upgraded version] <br />
+Accessible to blind and deaf people [Available in the upgraded version] <br />
 Includes preliminary slang support <br />
 Includes exception handling for personal questions <br />
 
