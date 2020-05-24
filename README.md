@@ -22,5 +22,9 @@ I would really love if someone could add more features to it.
 
 The algorithm breaks down the user inputs to seperate words and converts them to lower case [i.e. makes it case insensitive]. Then it matches these words with the keyword-tags database I created. Then based on the tags identified in the user response, the algorithm obtains latest information through web scraping and delivers customized outputs through the device audio.
 
+# Video Demo
+
+You can find a walkthrough of my project at https://youtu.be/wfc57tWb6WE
+
 # Set-up
-Requires prior installation of selenium python, chromedriver, python 3.0+ and pyttsx3 library. Additionally, the source code uses ChromeDriver, but you can use the webdriver of your choice.
+Requires prior installation of selenium python, chromedriver, speech_recognition, python 3.0+ and pyttsx3 library. Additionally, the source code uses ChromeDriver, but you can use the webdriver of your choice.
