@@ -5,7 +5,7 @@ I personally use it for getting updated information from the websites I trust. H
 
 # Features
 
-Information: Total cases, total recovered, total deaths - Headlines need advanced web scraping [Wil Include later] <br />
+Information: Total cases, total recovered, total deaths - Headlines need advanced web scraping [Will Include later] <br />
 Audio responses <br />
 Choice for male / female voice assisstant <br />
 Advanced error handling conditions <br />
